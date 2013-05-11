@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ThreadedCopier", "ThreadedCopier\ThreadedCopier.vbproj", "{CA811D67-CCEC-4D74-89D3-36421A6E2303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA811D67-CCEC-4D74-89D3-36421A6E2303}.Debug|x86.ActiveCfg = Debug|x86
+		{CA811D67-CCEC-4D74-89D3-36421A6E2303}.Debug|x86.Build.0 = Debug|x86
+		{CA811D67-CCEC-4D74-89D3-36421A6E2303}.Release|x86.ActiveCfg = Release|x86
+		{CA811D67-CCEC-4D74-89D3-36421A6E2303}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
